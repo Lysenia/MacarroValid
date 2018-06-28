@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21499" started-at="2018-06-28T17:06:16Z" finished-at="2018-06-28T17:06:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21499" started-at="2018-06-28T17:06:16Z" finished-at="2018-06-28T17:06:37Z">
+      <class name="datavalidation.MockarooDataValidation">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="setUp" is-config="true" duration-ms="7873" started-at="2018-06-28T17:06:16Z" finished-at="2018-06-28T17:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToMockaroo()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="navigateToMockaroo" is-config="true" duration-ms="1" started-at="2018-06-28T17:06:24Z" finished-at="2018-06-28T17:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToMockaroo -->
+        <test-method status="PASS" signature="titleTest()[pri:1, instance:datavalidation.MockarooDataValidation@42e26948]" name="titleTest" duration-ms="22" started-at="2018-06-28T17:06:24Z" finished-at="2018-06-28T17:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method status="PASS" signature="navigateToMockaroo()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="navigateToMockaroo" is-config="true" duration-ms="1" started-at="2018-06-28T17:06:24Z" finished-at="2018-06-28T17:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToMockaroo -->
+        <test-method status="PASS" signature="titleValidation()[pri:2, instance:datavalidation.MockarooDataValidation@42e26948]" name="titleValidation" duration-ms="203" started-at="2018-06-28T17:06:24Z" finished-at="2018-06-28T17:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleValidation -->
+        <test-method status="PASS" signature="title2Validation()[pri:3, instance:datavalidation.MockarooDataValidation@42e26948]" name="title2Validation" duration-ms="47" started-at="2018-06-28T17:06:24Z" finished-at="2018-06-28T17:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title2Validation -->
+        <test-method status="PASS" signature="navigateToMockaroo()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="navigateToMockaroo" is-config="true" duration-ms="0" started-at="2018-06-28T17:06:24Z" finished-at="2018-06-28T17:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToMockaroo -->
+        <test-method status="PASS" signature="navigateToMockaroo()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="navigateToMockaroo" is-config="true" duration-ms="1" started-at="2018-06-28T17:06:24Z" finished-at="2018-06-28T17:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToMockaroo -->
+        <test-method status="PASS" signature="remove()[pri:4, instance:datavalidation.MockarooDataValidation@42e26948]" name="remove" duration-ms="472" started-at="2018-06-28T17:06:24Z" finished-at="2018-06-28T17:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remove -->
+        <test-method status="PASS" signature="labelCheck()[pri:5, instance:datavalidation.MockarooDataValidation@42e26948]" name="labelCheck" duration-ms="127" started-at="2018-06-28T17:06:24Z" finished-at="2018-06-28T17:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- labelCheck -->
+        <test-method status="PASS" signature="navigateToMockaroo()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="navigateToMockaroo" is-config="true" duration-ms="0" started-at="2018-06-28T17:06:24Z" finished-at="2018-06-28T17:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToMockaroo -->
+        <test-method status="PASS" signature="navigateToMockaroo()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="navigateToMockaroo" is-config="true" duration-ms="0" started-at="2018-06-28T17:06:25Z" finished-at="2018-06-28T17:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToMockaroo -->
+        <test-method status="PASS" signature="isEnabled()[pri:6, instance:datavalidation.MockarooDataValidation@42e26948]" name="isEnabled" duration-ms="37" started-at="2018-06-28T17:06:25Z" finished-at="2018-06-28T17:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isEnabled -->
+        <test-method status="PASS" signature="defaultRows()[pri:7, instance:datavalidation.MockarooDataValidation@42e26948]" name="defaultRows" duration-ms="28" started-at="2018-06-28T17:06:25Z" finished-at="2018-06-28T17:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defaultRows -->
+        <test-method status="PASS" signature="navigateToMockaroo()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="navigateToMockaroo" is-config="true" duration-ms="0" started-at="2018-06-28T17:06:25Z" finished-at="2018-06-28T17:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToMockaroo -->
+        <test-method status="PASS" signature="navigateToMockaroo()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="navigateToMockaroo" is-config="true" duration-ms="0" started-at="2018-06-28T17:06:25Z" finished-at="2018-06-28T17:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToMockaroo -->
+        <test-method status="PASS" signature="defaultFormat()[pri:8, instance:datavalidation.MockarooDataValidation@42e26948]" name="defaultFormat" duration-ms="30" started-at="2018-06-28T17:06:25Z" finished-at="2018-06-28T17:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defaultFormat -->
+        <test-method status="PASS" signature="defaultLineEnding()[pri:9, instance:datavalidation.MockarooDataValidation@42e26948]" name="defaultLineEnding" duration-ms="32" started-at="2018-06-28T17:06:25Z" finished-at="2018-06-28T17:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defaultLineEnding -->
+        <test-method status="PASS" signature="navigateToMockaroo()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="navigateToMockaroo" is-config="true" duration-ms="0" started-at="2018-06-28T17:06:25Z" finished-at="2018-06-28T17:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToMockaroo -->
+        <test-method status="PASS" signature="navigateToMockaroo()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="navigateToMockaroo" is-config="true" duration-ms="0" started-at="2018-06-28T17:06:25Z" finished-at="2018-06-28T17:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToMockaroo -->
+        <test-method status="PASS" signature="headerIsChecked()[pri:10, instance:datavalidation.MockarooDataValidation@42e26948]" name="headerIsChecked" duration-ms="69" started-at="2018-06-28T17:06:25Z" finished-at="2018-06-28T17:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerIsChecked -->
+        <test-method status="PASS" signature="navigateToMockaroo()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="navigateToMockaroo" is-config="true" duration-ms="0" started-at="2018-06-28T17:06:25Z" finished-at="2018-06-28T17:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToMockaroo -->
+        <test-method status="PASS" signature="testAddField()[pri:11, instance:datavalidation.MockarooDataValidation@42e26948]" name="testAddField" duration-ms="299" started-at="2018-06-28T17:06:25Z" finished-at="2018-06-28T17:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddField -->
+        <test-method status="PASS" signature="testIsDisplayed()[pri:12, instance:datavalidation.MockarooDataValidation@42e26948]" name="testIsDisplayed" duration-ms="172" started-at="2018-06-28T17:06:25Z" finished-at="2018-06-28T17:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIsDisplayed -->
+        <test-method status="PASS" signature="navigateToMockaroo()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="navigateToMockaroo" is-config="true" duration-ms="0" started-at="2018-06-28T17:06:25Z" finished-at="2018-06-28T17:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToMockaroo -->
+        <test-method status="PASS" signature="navigateToMockaroo()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="navigateToMockaroo" is-config="true" duration-ms="0" started-at="2018-06-28T17:06:25Z" finished-at="2018-06-28T17:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToMockaroo -->
+        <test-method status="PASS" signature="testSearchForCity()[pri:13, instance:datavalidation.MockarooDataValidation@42e26948]" name="testSearchForCity" duration-ms="3598" started-at="2018-06-28T17:06:25Z" finished-at="2018-06-28T17:06:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchForCity -->
+        <test-method status="PASS" signature="navigateToMockaroo()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="navigateToMockaroo" is-config="true" duration-ms="0" started-at="2018-06-28T17:06:29Z" finished-at="2018-06-28T17:06:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToMockaroo -->
+        <test-method status="PASS" signature="addCountry()[pri:14, instance:datavalidation.MockarooDataValidation@42e26948]" name="addCountry" duration-ms="3697" started-at="2018-06-28T17:06:29Z" finished-at="2018-06-28T17:06:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCountry -->
+        <test-method status="PASS" signature="navigateToMockaroo()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="navigateToMockaroo" is-config="true" duration-ms="1" started-at="2018-06-28T17:06:33Z" finished-at="2018-06-28T17:06:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToMockaroo -->
+        <test-method status="PASS" signature="loadLists()[pri:15, instance:datavalidation.MockarooDataValidation@42e26948]" name="loadLists" duration-ms="603" started-at="2018-06-28T17:06:33Z" finished-at="2018-06-28T17:06:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadLists -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:datavalidation.MockarooDataValidation@42e26948]" name="tearDown" is-config="true" duration-ms="4105" started-at="2018-06-28T17:06:33Z" finished-at="2018-06-28T17:06:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- datavalidation.MockarooDataValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
